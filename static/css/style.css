@@ -1,0 +1,29 @@
+
+  .jumbotron {
+    background-image: url("../images/viruses-bacteria-fungi.jpg");
+    background-size: 100%;
+    text-align: center;
+
+  }
+
+.jumbotron h1 {
+    color:#ffffff
+}
+.jumbotron h3 {
+    color: #ffffff
+}
+.jumbotron h5 {
+  color: #ffffff
+}
+body {
+  background-color: #80ced6;
+}
+  .panel-primary > .panel-heading {
+    background: #2C60EA; color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
