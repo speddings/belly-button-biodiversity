@@ -15,10 +15,7 @@
 .jumbotron h5 {
   color: #ffffff
 }
-body {
-  background-color: #80ced6;
-}
-  .panel-primary > .panel-heading {
+.panel-primary > .panel-heading {
     background: #2C60EA; color: #fff;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -26,4 +23,9 @@ body {
     padding-right: 5px;
     text-align: center;
 }
-
+body {
+  background-color: #80ced6;
+}
+p {
+  color: #ffffff
+}
