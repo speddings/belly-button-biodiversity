@@ -1,6 +1,6 @@
-# Bellybutton Biodiversity
+# Belly Button Biodiversity
 
-## Overview of Bellybutton Biodiversity
+## Overview of Belly Button Biodiversity
 The purpose of this project and analysis is a dashbaord website that allows an individual to select a test subject's ID from a dropdown menu. Upon selection, the dashboard displays the demographic information, the top 10 bacteria cultures found in the sample, cultures per sample, and the per-week washing frequency of that individual. 
 
 
@@ -14,7 +14,7 @@ The purpose of this project and analysis is a dashbaord website that allows an i
    1. [samples.json](https://github.com/speddings/belly-button-biodiversity/blob/main/samples.json)
    
    
-## Results of Bellybutton Biodiversity
-The final result is a [dashboard website](https://speddings.github.io/belly-button-biodiversity/) that displays bellybutton analysis information in an interactive way.  
+## Results of Belly Button Biodiversity
+The final result is a [dashboard website](https://speddings.github.io/belly-button-biodiversity/) that displays belly button analysis information in an interactive way.  
 
 ![dashboard](/static/images/dashboard.png)
